@@ -1,5 +1,8 @@
 # Welcome to your Lovable project
 
+## How to activate scrapper
+ There is a python script in the backend folder, I would ask the user to run the script before hosting the website on the local device.
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/f3a817e7-11f9-48a3-ab9d-54a40c7f7993
